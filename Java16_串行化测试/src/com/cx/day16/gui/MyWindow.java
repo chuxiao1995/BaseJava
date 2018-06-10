@@ -22,7 +22,6 @@ public class MyWindow {
 		Button.setBounds(100, 50, 100, 50);
 		Button.addActionListener(new ActionListener() {
 
-			@Override
 			public void actionPerformed(ActionEvent e) {
 				System.out.println("µã»÷°´Å¥");
 			}
