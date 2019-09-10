@@ -1,4 +1,4 @@
-package com.cx.java17.download;
+package main.socket.download;
 
 import java.io.InputStream;
 import java.io.RandomAccessFile;

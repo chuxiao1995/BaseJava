@@ -1,4 +1,4 @@
-package com.cx.java17.download;
+package main.socket.download;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

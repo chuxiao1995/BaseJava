@@ -1,4 +1,4 @@
-package com.cx.java17.socket;
+package main.socket;
 
 import java.io.FileOutputStream;
 import java.io.InputStream;

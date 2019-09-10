@@ -1,16 +1,11 @@
-package 第十四天_IO和集合嵌套;
+package day14_IOandCollection;
 
-import java.awt.im.InputContext;
-import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.nio.Buffer;
 import java.util.Arrays;
 
 import org.junit.Test;

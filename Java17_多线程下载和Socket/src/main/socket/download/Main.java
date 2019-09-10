@@ -1,4 +1,4 @@
-package com.cx.java17.download;
+package main.socket.download;
 
 public class Main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.cx.java17.download;
+package main.socket.download;
 
 import java.net.HttpURLConnection;
 import java.net.URL;

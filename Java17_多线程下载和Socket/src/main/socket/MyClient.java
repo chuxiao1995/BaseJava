@@ -1,4 +1,4 @@
-package com.cx.java17.socket;
+package main.socket;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
