@@ -1,9 +1,0 @@
-object.class=com.chuxiao.java25.Person
-
-object.prop1.name=Name
-object.prop1.type=java.lang.String
-object.prop1.value=tomas
-
-object.prop2.name=age
-object.prop2.type=int
-object.prop2.value=20
