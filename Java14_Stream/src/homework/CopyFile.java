@@ -1,4 +1,4 @@
-package com.cx.java14.homework;
+package homework;
 
 import java.io.File;
 import java.io.FileInputStream;

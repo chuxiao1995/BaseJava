@@ -1,4 +1,4 @@
-package com.cx.java14.stream;
+package stream;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

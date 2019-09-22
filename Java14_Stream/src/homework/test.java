@@ -1,4 +1,4 @@
-package com.cx.java14.homework;
+package homework;
 
 public class test {
     public static void main(String args[]) {

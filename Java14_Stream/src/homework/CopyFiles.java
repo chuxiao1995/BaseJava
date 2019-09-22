@@ -1,4 +1,4 @@
-package com.cx.java14.homework;
+package homework;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -42,7 +42,6 @@ public class CopyFiles {
 	 * ¸´ÖÆÎÄ¼þ
 	 *
 	 * @param file
-	 * @param targetFile
 	 * @throws Exception
 	 */
 	public void testCopyFile(String file, String destFile) throws Exception {
